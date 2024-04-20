@@ -5,7 +5,7 @@
   <hr>
 <h2>CONOCIMIENTOS TÉCNICOS</h2>
 <div style='display:flex; '>
-  <div style='width:50%;'>
+  <div style='width:49%;'>
 <h4>Tecnologías de Desarrollo:</h4>
 •	HTML, CSS, JavaScript, <br>
 •	Bootstrap y Sass.<br>
@@ -17,7 +17,7 @@
 •	Herramientas de Google (Merchant, Search Console).<br>
 •	SEO y Optimización Web.<br>
 <br></div>
-  <div style='width:50%;'>
+  <div style='width:49%;'>
 <h4>Diseño y Multimedia:</h4>
 •	Canva, Photoshop (Basico), CorelDRAW, Inkscape.<br>
 •	Blender (Basico).<br>
