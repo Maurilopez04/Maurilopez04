@@ -4,7 +4,7 @@
   tecnologías y herramientas para mejorar mis capacidades en desarrollo y diseño.</p>
   <hr>
 <h2>CONOCIMIENTOS TÉCNICOS</h2>
-<div style='display:flex; '>
+<div style='display:flex; flex-wrap:nowrap;'>
   <div style='width:49%;'>
 <h4>Tecnologías de Desarrollo:</h4>
 •	HTML, CSS, JavaScript, <br>
