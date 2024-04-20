@@ -4,8 +4,7 @@
   tecnologías y herramientas para mejorar mis capacidades en desarrollo y diseño.</p>
   <hr>
 <h2>CONOCIMIENTOS TÉCNICOS</h2>
-<div style='display:flex; flex-wrap:nowrap;'>
-  <div style='width:49%;'>
+
 <h4>Tecnologías de Desarrollo:</h4>
 •	HTML, CSS, JavaScript, <br>
 •	Bootstrap y Sass.<br>
@@ -16,10 +15,9 @@
 •	PrestaShop, Wix.<br>
 •	Herramientas de Google (Merchant, Search Console).<br>
 •	SEO y Optimización Web.<br>
-<br></div>
-  <div style='width:49%;'>
+<br>
 <h4>Diseño y Multimedia:</h4>
 •	Canva, Photoshop (Basico), CorelDRAW, Inkscape.<br>
 •	Blender (Basico).<br>
 •	Capcut, Filmora, Camtasia, OBS. <br>
-</div></div>
+
