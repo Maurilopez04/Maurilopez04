@@ -5,14 +5,11 @@
   <hr>
 <h2>CONOCIMIENTOS TÉCNICOS</h2>
 <h4>Tecnologías de Desarrollo:</h4>
-•	HTML, CSS, JavaScript, <br>
-•	Bootstrap y Sass.<br>
-•	REACT, JSON.<br>
+•	HTML, CSS, JavaScript, Bootstrap y Sass.<br>
+•	REACT, JSON, ASTRO.<br>
 •	PHP y MySQL.<br>
-•	Git y GitHub.<br>
-•	cPanel, WordPress y WooCommerce.<br>
-•	PrestaShop, Wix.<br>
-•	Herramientas de Google (Merchant, Search Console).<br>
+•	cPanel, Git y GitHub.<br>
+•	WordPress y WooCommerce, PrestaShop, Wix.<br>
 •	SEO y Optimización Web.<br>
 
 <h4>Diseño y Multimedia:</h4>
