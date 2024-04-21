@@ -1,4 +1,4 @@
-<h1>Mauricio Lopez - Desarrollador &#60;REACT - PHP&#62;</h1>
+<h1>Mauricio Lopez - Desarrollador &#60;REACT - ASTRO - PHP&#62;</h1>
 <p>Desarrollador FrontEnd Jr. con conocimientos básicos en BackEnd. Especializado en la creación de sitios y aplicaciones web, 
   así como en el diseño gráfico tanto para mis páginas como para redes sociales. Siempre estoy en búsqueda de aprender nuevas 
   tecnologías y herramientas para mejorar mis capacidades en desarrollo y diseño.</p>
