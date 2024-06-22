@@ -13,7 +13,7 @@
 •	SEO y Optimización Web.<br>
 
 <h4>Diseño y Multimedia:</h4>
-•	Canva, Photoshop (Basico), CorelDRAW, Inkscape.<br>
+•	Canva, Photoshop, CorelDRAW, Inkscape.<br>
 •	Blender (Basico).<br>
 •	Capcut, Filmora, Camtasia, OBS. <br>
 
