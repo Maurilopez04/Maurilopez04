@@ -17,3 +17,8 @@
 •	Blender (Basico).<br>
 •	Capcut, Filmora, Camtasia, OBS. <br>
 
+<h4>Marketing:</h4>
+•	Google merchant Center<br>
+•	Campañas en Meta.<br>
+•	Social Media Manager <br>
+•	Google ads <br>
