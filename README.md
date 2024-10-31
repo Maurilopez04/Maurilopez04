@@ -1,6 +1,6 @@
 # 💻 Mauricio Adrián López Arévalo
 
-### Full Stack Developer & IT Technician
+### Full Stack Developer Jr. & IT Technician
 
 Hello, I'm **Mauricio López**, a technology enthusiast and web developer with over 2 years of experience building and maintaining software systems and websites. My self-taught and results-oriented approach has allowed me to specialize in **Full Stack Development**, with solid skills in both frontend and backend.
 
