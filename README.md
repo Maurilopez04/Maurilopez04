@@ -35,6 +35,8 @@ Hello, I'm **Mauricio López**, a technology enthusiast and web developer with o
 - **Responsive Web Design** - FreeCodeCamp
 - **PC Maintenance and Repair** - SNPP
 - **System Cybersecurity** - SNPP
+- **PHP & MVC** - Udemy
+- **IT Technician** - Aprende.org
 
 ---
 
