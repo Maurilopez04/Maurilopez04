@@ -42,12 +42,14 @@ Hello, I'm **Mauricio López**, a technology enthusiast and web developer with o
 
 ## 🚀 Key Projects
 
-- **[HL Tuning](http://www.hltuning.com)**  
+- **[HL Tuning](https://www.hltuning.com)**  
   Development and maintenance of an administrative system and website for an automotive accessories store.
 
 - **Freelance Projects**  
   Custom website development, design of advertising materials (flyers, banners), as well as technical support and equipment maintenance.
 
+- **[Cuando Leo Me Libro De Todo](https://cuandoleomelibrodetodo.site)**  
+  Computer Technical Support
 ---
 
 ---
