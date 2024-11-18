@@ -49,7 +49,7 @@ Hello, I'm **Mauricio López**, a technology enthusiast and web developer with o
   Custom website development, design of advertising materials (flyers, banners), as well as technical support and equipment maintenance.
 
 - **[Cuando Leo Me Libro De Todo](https://cuandoleomelibrodetodo.site)**  
-  Computer Technical Support
+  Computer Technical Support.
 ---
 
 ---
